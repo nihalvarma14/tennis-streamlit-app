@@ -1,4 +1,3 @@
-import torch
 import cv2
 import tempfile
 import numpy as np
